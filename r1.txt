@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 modify from server
 modifed on master
+=======
+
+>>>>>>> v2
